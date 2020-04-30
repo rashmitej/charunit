@@ -1,6 +1,4 @@
 package findString;
-
-
 import static org.junit.Assert.*;
 
 import org.apache.log4j.BasicConfigurator;
