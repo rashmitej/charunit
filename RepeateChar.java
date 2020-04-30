@@ -1,5 +1,4 @@
 package FindString;
-
 /*Write a method that can take an uncompressed version of a string and return a compressed version.
 Eg:
 1. input aaaabbcc
